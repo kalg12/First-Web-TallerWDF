@@ -1,4 +1,4 @@
-# Firs Web - Taller Web Dev Fundamentals
+# First Web - Taller Web Dev Fundamentals
 
 ¡Bienvenido a este repositorio!
 
